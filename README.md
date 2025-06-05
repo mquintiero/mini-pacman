@@ -4,22 +4,22 @@ El ejercicio consistía en implementar un prototipo simplificado del juego Pacma
 
 El prototipo debía incluir:
 
-Un modelo de tablero representado a partir de una colección de strings.
+- Un modelo de tablero representado a partir de una colección de strings.
 
-Movimiento de Pacman en las cuatro direcciones.
+- Movimiento de Pacman en las cuatro direcciones.
 
-Dos fantasmas: Blinky (empieza moviéndose a la izquierda desde el 4º tick) y Clyde (a la derecha desde el 5º tick).
+- Dos fantasmas: Blinky (empieza moviéndose a la izquierda desde el 4º tick) y Clyde (a la derecha desde el 5º tick).
 
-Reglas de juego como:
+- Reglas de juego como:
 
-Movimiento restringido por paredes.
+- Movimiento restringido por paredes.
 
-Puntos por píldoras: 1 por pequeña, 2 por grande.
+  -Puntos por píldoras: 1 por pequeña, 2 por grande.
 
-Fantasmas que dejan el contenido original del casillero al salir.
+  -Fantasmas que dejan el contenido original del casillero al salir.
 
-Pacman pierde una vida al ser alcanzado por un fantasma, reiniciando su posición.
+  -Pacman pierde una vida al ser alcanzado por un fantasma, reiniciando su posición.
 
-El juego termina al quedarse sin vidas o sin píldoras.
+  -El juego termina al quedarse sin vidas o sin píldoras.
 
 No era necesario implementar frutas, múltiples niveles ni que Pacman pueda comerse a los fantasmas.
