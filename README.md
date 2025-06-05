@@ -25,7 +25,7 @@ El prototipo debía incluir:
 No era necesario implementar frutas, múltiples niveles ni que Pacman pueda comerse a los fantasmas.
 
 ## Cómo abrir el archivo en CuisUniversity
-1. Descargar
+1. Descargar CuisUniversity
 
    Si aún no lo tenés, podés conseguirlo desde esta [página](https://www.isw2.com.ar/cuisuniversity).
 
