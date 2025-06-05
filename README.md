@@ -25,5 +25,14 @@ El prototipo debía incluir:
 No era necesario implementar frutas, múltiples niveles ni que Pacman pueda comerse a los fantasmas.
 
 ##Cómo abrir el archivo en CuisUniversity
-1. Descargar e instalar CuisUniversity
-Si aún no lo tenés, podés conseguirlo desde esta [página](https://www.isw2.com.ar/cuisuniversity)
+1. Descargar
+
+  Si aún no lo tenés, podés conseguirlo desde esta [página](https://www.isw2.com.ar/cuisuniversity).
+
+2. Abrir el archivo run (en el caso de Windows)
+
+   Esto abrirá CuisUniversity y creará la carpeta UserFiles en la carpeta anterior. Ahí hay que pegar el archivo .st.
+
+3. Abrir el archivo descargardo
+
+   Una vez en Cuis, hacemos click derecho en la pantalla y vamos a Open -> File List. Ahí le hacemos click al archivo que acabamos de agregar y apretamos file in arriba a la derecha. Ahora volvemos a hacer click en el fondo y abrimos el Class Browser, donde aparecerá el archivo abajo de todo.
