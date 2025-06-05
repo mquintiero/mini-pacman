@@ -12,14 +12,18 @@ El prototipo debía incluir:
 
 - Reglas de juego como:
 
-- Movimiento restringido por paredes.
+  - Movimiento restringido por paredes.
 
-  -Puntos por píldoras: 1 por pequeña, 2 por grande.
+  - Puntos por píldoras: 1 por pequeña, 2 por grande.
 
-  -Fantasmas que dejan el contenido original del casillero al salir.
+  - Fantasmas que dejan el contenido original del casillero al salir.
 
-  -Pacman pierde una vida al ser alcanzado por un fantasma, reiniciando su posición.
+  - Pacman pierde una vida al ser alcanzado por un fantasma, reiniciando su posición.
 
-  -El juego termina al quedarse sin vidas o sin píldoras.
+  - El juego termina al quedarse sin vidas o sin píldoras.
 
 No era necesario implementar frutas, múltiples niveles ni que Pacman pueda comerse a los fantasmas.
+
+##Cómo abrir el archivo en CuisUniversity
+1. Descargar e instalar CuisUniversity
+Si aún no lo tenés, podés conseguirlo desde esta [página](https://www.isw2.com.ar/cuisuniversity)
